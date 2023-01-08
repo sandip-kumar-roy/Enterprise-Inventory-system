@@ -1,0 +1,15 @@
+package com.tirmizee.backend.service.data;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class LockUser {
+
+	private String username;
+	private boolean isLocked;
+	
+}
