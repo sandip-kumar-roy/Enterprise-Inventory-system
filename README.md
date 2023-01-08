@@ -37,12 +37,14 @@ A full fledged system used for managing the user records in a cool way as in an 
 # Building and running
 	mvn package
 	java -jar SpringBoot-0.0.1-SNAPSHOT.war 
+	
 
-![image](https://user-images.githubusercontent.com/101457128/211210406-70586eb0-717c-49e2-b0f0-ece547c8f647.png)
+![image](https://user-images.githubusercontent.com/101457128/211212660-60024994-f9fc-4b1c-be61-b44770183f1b.png)
 
 
 
-![image](https://user-images.githubusercontent.com/101457128/211210752-cfaee3d5-fee3-4cc8-807a-d1cb40b2411f.png)
+
+![image](https://user-images.githubusercontent.com/101457128/211212849-13be08f8-b044-4ea1-af1e-5014b74ae997.png)
 
 ![image](https://user-images.githubusercontent.com/101457128/211210858-57fb9abe-0e7e-414b-a8c4-0a7a849ddbc5.png)
 
