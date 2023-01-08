@@ -14,23 +14,21 @@ A full fledged system used for managing the user records in a cool way as in an 
 	
 	5) Roles & Permissions management
 	
-	6) Tracking user logon
+	6) Forgot password and send email reset password
 	
-	7) Forgot password and send email reset password
+	7) Forcing user to change a password at the first time login
 	
-	8) Forcing user to change a password at the first time login
+	8) Forcing user to change expired password
 	
-	9) Forcing user to change expired password
+	9) Paging, Searching and Sorting data
 	
-	10) Paging, Searching and Sorting data
+	10) Pagination result using select2 ajax remote data
 	
-	11) Pagination result using select2 ajax remote data
+	11) Sending email template with attachment
 	
-	12) Sending email template with attachment
+	12) Multiple languages web application
 	
-	13) Multiple languages web application
-	
-	14) Generate PDF and Excel file
+	13) Generate PDF and Excel file
 	
 	15) Uploading both data and files in one form using Ajax
 	
