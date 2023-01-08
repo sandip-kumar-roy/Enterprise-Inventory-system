@@ -1,6 +1,45 @@
 # Enterprise-Inventory-system
 A full fledged system used for managing the user records in a cool way as in an enterprise application
 
+
+# FACILITIES THIS APP PROVIDES:-
+
+	1) Preventing brute force authentication attempts
+	
+	2) Block user account after 3 consecutive failed login attempts
+	
+	3) Limit maximum sessions for user
+	
+	4) Setting session timeout and update database table on timeout
+	
+	5) Roles & Permissions management
+	
+	6) Tracking user logon
+	
+	7) Forgot password and send email reset password
+	
+	8) Forcing user to change a password at the first time login
+	
+	9) Forcing user to change expired password
+	
+	10) Paging, Searching and Sorting data
+	
+	11) Pagination result using select2 ajax remote data
+	
+	12) Sending email template with attachment
+	
+	13) Multiple languages web application
+	
+	14) Generate PDF and Excel file
+	
+	15) Uploading both data and files in one form using Ajax
+	
+	
+	
+# Building and running
+	mvn package
+	java -jar SpringBoot-0.0.1-SNAPSHOT.war 
+
 ![image](https://user-images.githubusercontent.com/101457128/211210406-70586eb0-717c-49e2-b0f0-ece547c8f647.png)
 
 
