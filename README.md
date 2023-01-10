@@ -55,8 +55,6 @@ A full fledged system used for managing the user records in a cool way as in an 
 ![image](https://user-images.githubusercontent.com/101457128/211211439-ded9e0ea-b65d-4bf4-bc0f-74e4e4b4e3d2.png)
 
 
-![page6](https://user-images.githubusercontent.com/101457128/211211456-f84de462-7022-43d1-b008-873ed8101386.PNG)
-
 
 upload excel files
 ![image](https://user-images.githubusercontent.com/101457128/211211482-7a46f7bb-990c-46f5-8f0e-0336faacf5f9.png)
